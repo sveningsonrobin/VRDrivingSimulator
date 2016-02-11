@@ -1,5 +1,6 @@
-Main/Binaries
-Main/DerivedDataCache
-Main/Intermediate
-Main/Saved
+MyProject2/Binaries
+MyProject2/DerivedDataCache
+MyProject2/Intermediate
+MyProject2/Saved
+MyProject2/Plugins
 .DS_Store
