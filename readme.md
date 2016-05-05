@@ -2,7 +2,7 @@
 
 Keybinds for VRCDS:
 
-Reverse: R or L2/8
+Reverse: R or SE+ST on wheel
 Clutch (koppling): F or L3/11
 Gear Up: B or R2/8
 Gear Down: V or R3/9
