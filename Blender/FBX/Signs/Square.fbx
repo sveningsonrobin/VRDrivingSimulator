@@ -9,11 +9,11 @@ FBXHeaderExtension:  {
 	CreationTimeStamp:  {
 		Version: 1000
 		Year: 2016
-		Month: 03
-		Day: 02
-		Hour: 15
-		Minute: 12
-		Second: 02
+		Month: 05
+		Day: 06
+		Hour: 19
+		Minute: 23
+		Second: 07
 		Millisecond: 0
 	}
 	Creator: "FBX SDK/FBX Plugins build 20070228"
@@ -21,7 +21,7 @@ FBXHeaderExtension:  {
 		FlagPLE: 0
 	}
 }
-CreationTime: "2016-03-02 15:12:02:000"
+CreationTime: "2016-05-06 19:23:07:000"
 Creator: "Blender version 2.76 (sub 0)"
 
 ; Object definitions
@@ -58,7 +58,7 @@ Objects:  {
 			Property: "Visibility", "Visibility", "A+",1
 			Property: "Lcl Translation", "Lcl Translation", "A+",0.000000000000000,0.000000000000000,0.000000000000000
 			Property: "Lcl Rotation", "Lcl Rotation", "A+",90.000009334538021,-0.000000000000000,0.000000000000000
-			Property: "Lcl Scaling", "Lcl Scaling", "A+",-7.588790416717529,-1.478068947792053,-25.015840530395508
+			Property: "Lcl Scaling", "Lcl Scaling", "A+",-1.637923240661621,-1.478068947792053,-25.015840530395508
 			Property: "RotationOffset", "Vector3D", "",0,0,0
 			Property: "RotationPivot", "Vector3D", "",0,0,0
 			Property: "ScalingOffset", "Vector3D", "",0,0,0
@@ -542,7 +542,7 @@ Objects:  {
 		NbPoseNodes: 2
 		PoseNode:  {
 			Node: "Model::UCX_Sign"
-			Matrix: -0.000000572937722,0.000000000000000,-1.478068947792053,0.000000000000000,7.588790416717529,0.000000000000000,-0.000000111591106,0.000000000000000,0.000000000000000,25.015840530395508,0.000000000000000,0.000000000000000,0.000000000000000,0.000000000000000,0.000000000000000,1.000000000000000
+			Matrix: -0.000000123659774,0.000000000000000,-1.478068947792053,0.000000000000000,1.637923240661621,0.000000000000000,-0.000000111591106,0.000000000000000,0.000000000000000,25.015840530395508,0.000000000000000,0.000000000000000,0.000000000000000,0.000000000000000,0.000000000000000,1.000000000000000
 		}
 		PoseNode:  {
 			Node: "Model::Sign"
