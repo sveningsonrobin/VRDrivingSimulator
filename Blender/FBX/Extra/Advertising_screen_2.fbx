@@ -9,11 +9,11 @@ FBXHeaderExtension:  {
 	CreationTimeStamp:  {
 		Version: 1000
 		Year: 2016
-		Month: 04
-		Day: 01
-		Hour: 12
-		Minute: 28
-		Second: 59
+		Month: 05
+		Day: 11
+		Hour: 18
+		Minute: 19
+		Second: 52
 		Millisecond: 0
 	}
 	Creator: "FBX SDK/FBX Plugins build 20070228"
@@ -21,7 +21,7 @@ FBXHeaderExtension:  {
 		FlagPLE: 0
 	}
 }
-CreationTime: "2016-04-01 12:28:59:000"
+CreationTime: "2016-05-11 18:19:52:000"
 Creator: "Blender version 2.76 (sub 0)"
 
 ; Object definitions
@@ -151,9 +151,9 @@ Objects:  {
 			Name: "UVMap"
 			MappingInformationType: "ByPolygonVertex"
 			ReferenceInformationType: "IndexToDirect"
-			UV: 0.941854,0.715401,0.062648,0.282146,0.009664,0.254189,0.990441,0.254189,0.941854,0.282146,0.062648,0.715401,
-			    0.990441,0.744577,0.009665,0.744577
-			UVIndex: 1,2,3,4,5,0,6,7,1,5,7,2,2,7,6,3,3,6,0,4,5,1,4,0
+			UV: 0.937948,0.715401,0.058742,0.282146,0.005758,0.254189,0.986535,0.254189,0.937948,0.282146,0.058742,0.715401,
+			    0.986535,0.744577,0.005759,0.744577,2.220910,0.744577,2.220910,0.254189,1.240133,0.254189,1.240134,0.744577
+			UVIndex: 1,2,3,4,5,0,6,7,1,5,7,2,10,11,8,9,3,6,0,4,5,1,4,0
 		}
 		LayerElementTexture: 0 {
 			Version: 101
@@ -191,7 +191,7 @@ Objects:  {
 			}
 		}
 	}
-	Material: "Material::Material", "" {
+	Material: "Material::Material_001", "" {
 		Version: 102
 		ShadingModel: "lambert"
 		MultiLayer: 0
@@ -268,7 +268,7 @@ Relations:  {
 	}
 	Model: "Model::Camera Switcher", "CameraSwitcher" {
 	}
-	Material: "Material::Material", "" {
+	Material: "Material::Material_001", "" {
 	}
 }
 
@@ -277,7 +277,7 @@ Relations:  {
 
 Connections:  {
 	Connect: "OO", "Model::Cube", "Model::Scene"
-	Connect: "OO", "Material::Material", "Model::Cube"
+	Connect: "OO", "Material::Material_001", "Model::Cube"
 }
 ;Takes and animation section
 ;----------------------------------------------------
