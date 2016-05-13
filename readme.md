@@ -74,3 +74,9 @@ Toggle Wheel+Pedals: F9
 
 Toggle Automatic/Manual: F8
 
+
+##Credits
+
+Special thanks to Daniel Sjölie for his support during the project, to Rama for his VictoryPlugin and Ikarus76, samiljan and tsky1971 for the JoystickPlugin.
+
+Many textures are downloaded from http://texturelib.com/.
