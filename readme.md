@@ -5,7 +5,12 @@
 In the level *Open World* precomputed lightning and shadows have been disabled, and must be disabled when pushing the Level to Github. Github only allows 100MB large files and when enabling precomputed shadows the *Open World* level gets much larger than 100MB. The setting is called *Force No Precomputed Lightning* and is found under *World Settings* in the *Open World* Level. So when you want to run the simulator with shadows, make sure the setting is set to false and rebuild the project. And when you push to Github, make sure the setting is set to true and rebuild the project.
 
 
-##Hardware requirements
+##Extract from User Manual
+
+For the full manual, please take a look [here](https://github.com/sveningsonrobin/VRDrivingSimulator/Documentation);
+
+
+###Hardware requirements
 
 **Computer**
 
@@ -36,7 +41,7 @@ The gas pedal should follow the pattern of [0,1] where 1 is maximum throttle and
 Note: It’s important to identify which axes index corresponds to which pedal or wheel in the Axes array given by the Get Previous Joystick State function; this is easiest done by trial-and-error.
 
 
-##Installation
+###Installation
 
 Clone the code from this repository, the project is then opened by opening the file “VRDrivingSimulator\MyProject2\MyProject2.uproject” with Unreal Engine 4.
 
@@ -80,3 +85,4 @@ Toggle Automatic/Manual: F8
 Special thanks to Daniel Sjölie for his support during the project, to Rama for his [VictoryPlugin](https://github.com/EverNewJoy/VictoryPlugin	) and Ikarus76, samiljan and tsky1971 for the [JoystickPlugin](https://github.com/Ikarus76/UEJoystickPlugin).
 
 Many textures are downloaded from http://texturelib.com/.
+
