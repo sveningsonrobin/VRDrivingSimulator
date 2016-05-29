@@ -86,7 +86,7 @@ Toggle Automatic/Manual: F8
 
 ##Credits
 
-Special thanks to Daniel Sjölie for his support during the project, to Rama for his [VictoryPlugin](https://github.com/EverNewJoy/VictoryPlugin	) and Ikarus76, samiljan and tsky1971 for the [JoystickPlugin](https://github.com/Ikarus76/UEJoystickPlugin).
+Special thanks to Daniel Sjölie for his support during the project, to Rama for his [VictoryPlugin](https://github.com/EverNewJoy/VictoryPlugin	) and getnamo, Ikarus76, samiljan and tsky1971 for the [JoystickPlugin](https://github.com/tsky1971/UEJoystickPlugin).
 
 Many textures are downloaded from http://texturelib.com/.
 
